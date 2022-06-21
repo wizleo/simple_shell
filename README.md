@@ -20,13 +20,13 @@ https://github.com/wizleo/simple_shell.git.
 Our shell was built and tested on Ubuntu 14.04 LTS.
 
 Basic usage 💡
--First, fork this repository.
--Then clone it to your local machine.
--Create an executable by running the following command:
--gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
--From there, type in the following command and press your enter button.
--./hsh
--Final step: ENJOY!
+- First, fork this repository.
+- Then clone it to your local machine.
+- Create an executable by running the following command:
+- gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
+- From there, type in the following command and press your enter button.
+- ./hsh
+- Final step: ENJOY!
 
 Contributors 😎💪
 - Nkajja Solomon Leo
