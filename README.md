@@ -11,13 +11,13 @@ Table of contents 📋
 - [Acknowledgements]
 
 Description 📧
-This is a shell written in C. It is based on the Thompson Shell.
+- This is a shell written in C. It is based on the Thompson Shell.
 
 Clone the below repository and compile the files into an executable using the GCC compiler.
 https://github.com/wizleo/simple_shell.git.
 
 ##Environment 🌲🌲
-Our shell was built and tested on Ubuntu 14.04 LTS.
+- Our shell was built and tested on Ubuntu 14.04 LTS.
 
 Basic usage 💡
 - First, fork this repository.
